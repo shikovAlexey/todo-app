@@ -1,0 +1,9 @@
+.item-add-form {
+    justify-content: center;
+    margin: 20px;
+}
+
+.item-add-form .btn {
+    width: 100px;
+    margin-left: 10px;
+}

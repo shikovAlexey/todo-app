@@ -1,0 +1,8 @@
+.top-panel {
+    display: flex;
+    margin: 10px;
+}
+
+.todo-panel {
+    width: 450px;
+}

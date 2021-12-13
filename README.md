@@ -1,5 +1,9 @@
 # My todo app
 
+# Технологии
+
+html, css, bootstrap, js, react
+
 ## Available Scripts
 
 In the project directory, you can run:
